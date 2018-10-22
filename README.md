@@ -1,6 +1,6 @@
 # Tuplecto
 
-**TODO: Add description**
+Deal with some common patterns that keep cropping up as you use Ecto.
 
 ## Installation
 
@@ -9,9 +9,9 @@ by adding `tuplecto` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
-  [
-    {:tuplecto, "~> 0.1.0"}
-  ]
+[
+{:tuplecto, "~> 0.1.0"}
+]
 end
 ```
 
